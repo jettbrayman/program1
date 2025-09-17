@@ -5,8 +5,6 @@
         static void Main(string[] args)
         {
 
-
-
             Console.WriteLine("Whats your name?");
             /*writes to the console*/
 
